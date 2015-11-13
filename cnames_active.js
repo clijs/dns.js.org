@@ -218,6 +218,7 @@ var cnames_active = {
     ,"querybuilder": "mistic100.github.io/jQuery-QueryBuilder"
     ,"quiz-app": "odevlord.github.io/Quiz-App"
     ,"quiz-revamped": "abhisekp.github.io/Quiz-Revamped"
+    ,"qs": "http://kirjs.github.io/qs.js"
     ,"rad": "rapid-application-development-js.github.io/RAD.JS"
     ,"radial": "ckgrafico.github.io/radial.js"
     ,"rafaelmangolin": "rafaelMangolin.github.io"
